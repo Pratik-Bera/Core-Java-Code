@@ -1,0 +1,4 @@
+Main-Class: executer.ImageOperation
+Class-Path: lib\IOModule.jar lib\RoundOperation.jar Strassen.jar
+
+

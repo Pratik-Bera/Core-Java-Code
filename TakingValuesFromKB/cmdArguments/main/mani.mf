@@ -1,0 +1,6 @@
+Main-Class: com.Calculator
+Class-Path: lib\operation.jar
+
+
+
+

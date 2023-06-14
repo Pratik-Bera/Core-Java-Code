@@ -1,0 +1,4 @@
+In this folder we created a package inside it we made a java file then we compile it, and get a .class file. then create
+a .jar file by pushing .class file in side then made it "main-class=Test" in MANIFEST.MF File  in META-INF folder.
+
+cmd > jar -cvfe main.jar p1.Test p1\Test.class

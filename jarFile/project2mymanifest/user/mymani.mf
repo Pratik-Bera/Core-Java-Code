@@ -1,0 +1,3 @@
+Main-Class: pack2.Executer
+Class-Path: lib\addition.jar
+

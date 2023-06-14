@@ -1,0 +1,13 @@
+This is a small calculator which can operate 4 operation addition, substraction, multiplication, division.
+That taking input by using cmd line arguments.
+
+you can run it using class file named com.Calculator which in " main " Folder. then you need to set classpath to lib folder jar file.
+your command sould be looks like 
+        java com.Calculator <Input 1st Operand> <Input 2nd Operand> <Input 3rd element for select operation>
+1 for addition, 2 for substraction, 3 for multiplication, 4 for division.
+
+
+Otherwise you can execute only setup.jar file.
+command will be 
+        java -jar setup.jar <Input 1st Operand> <Input 2nd Operand> <Input 3rd element for select operation>
+1 for addition, 2 for substraction, 3 for multiplication, 4 for division.

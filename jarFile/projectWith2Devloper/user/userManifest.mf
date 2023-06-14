@@ -1,0 +1,3 @@
+Main-Class: com.view.View
+Class-Path: lib\logicclasses.jar lib\operationclasses.jar
+
