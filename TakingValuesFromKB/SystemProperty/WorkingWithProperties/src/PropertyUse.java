@@ -1,7 +1,7 @@
 import java.util.Properties;
 import java.util.Enumeration;
 //import java.io.*;
-public class SystemPropertyUse {
+public class PropertyUse {
     public static void main(String[] args){
         Properties pr=new Properties();     // Properties is a predefine Class presented by Sun. which in java.util Package.
 
